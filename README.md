@@ -1,7 +1,7 @@
 # Sprawdzian
 <html>
 <head>
-<title>Sklep z artykułami kosmetycznymi</title>
+<title>Sklep z artykułami kosmetycznymi, Wykonał Redzimski</title>
 </head>
 <body>
 <body background=red>
